@@ -8,7 +8,7 @@ python3 grafana-exploit.py http://site.com /etc/passwd
 ```
 Or
 ```
-python3 grafana-exploit.py http://site:8080 /etc/passwd
+python3 grafana-exploit.py http://site.com:8080 /etc/passwd
 ```
 
 Interesting files
